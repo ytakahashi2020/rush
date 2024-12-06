@@ -86,6 +86,16 @@ rush deploy
 rush deploy
 ```
 
+# 6 Explorer
+
+the explorer is here
+
+```
+https://explorer.sonic.game/
+```
+
+![](./image/6_explorer.png)
+
 # What is Rush Quickstart?
 
 > [!WARNING]
