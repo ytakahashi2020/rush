@@ -70,15 +70,23 @@ rush deploy
 
 # 5 Run
 
-## 1 change input function
+## 1 cargo add
+
+```
+cargo add rush_ecs_core rush_ecs_sdk
+```
+
+## 2 return the comment out
+
+## 3 change input function
 
 ![](./image/5-1_changeInput.png)
 
-## 2 change upload function
+## 4 change upload function
 
 ![](./image/5-2_changeUpdate.png)
 
-## 3 run
+## 5 run
 
 ![](./image/5-3_cargoRun.png)
 
